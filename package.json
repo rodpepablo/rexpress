@@ -1,6 +1,6 @@
 {
   "name": "rexpress",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Just a way to organize your mvc express apps",
   "main": "index.js",
   "scripts": {
